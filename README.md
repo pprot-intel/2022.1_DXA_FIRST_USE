@@ -2,7 +2,12 @@
 
 ### Task
 
-Find and install 2022.1 OpenVINO Toolkit. Run inference on the linked Pointilism-9.onnx model and example coco_square.jpg image (or use any other image if you wish!)
+Find out more about OpenVINO Toolkit:
+- what *exactly* is it for, what can you do with it?
+- where can you learn how to use it?
+- where can you download it from?
+
+Try to get a general idea about OpenVINO, and when you're ready, install 2022.1 release and run inference on the linked Pointilism-9.onnx model and the example coco_square.jpg image (or use any other image, if you wish!)
 
 **Goal:** run inference and display results as a new (style-transfered) image  
 
