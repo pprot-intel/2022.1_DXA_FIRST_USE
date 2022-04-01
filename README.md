@@ -16,7 +16,7 @@ Next, use OpenVINO to run inference on [Pointilism-9.onnx](https://media.githubu
 **Note**: if you use Conda, run PIP command with Anaconda Prompt. On Windows, you might need to add [OpenVINO library to your PATH]( https://github.com/openvinotoolkit/openvino_notebooks/wiki/Conda#step-6-conda-add-the-openvino-library-to-your-path)
  
 **Goal:**
-- load model and compile model with OpenVINO
+- load and compile model with OpenVINO
 - run inference with example image
 - display inference results as a new, style-transfered image
 
