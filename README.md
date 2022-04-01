@@ -4,9 +4,9 @@
 
 ### Find out more about OpenVINO Toolkit
 Try to get a general idea about OpenVINO:
-- what *exactly* is it for, what can you do with it?
-- where can you learn how to use it?
-- where can you download it from?
+- what are example use cases
+- where can you learn how to use it
+- where can you download it from
 
 ### Installation
 When you're done exploring, we'll move to installation. Go to https://pypi.org/project/openvino-dev/ and follow the installation instructions 2022.1 release
@@ -15,7 +15,10 @@ Next, use OpenVINO to run inference on [Pointilism-9.onnx](https://media.githubu
 
 **Note**: if you use Conda, run PIP command with Anaconda Prompt. On Windows, you might need to add [OpenVINO library to your PATH]( https://github.com/openvinotoolkit/openvino_notebooks/wiki/Conda#step-6-conda-add-the-openvino-library-to-your-path)
  
-**Goal:** run inference and display results as a new (style-transfered) image  
+**Goal:**
+- load model and compile model with OpenVINO
+- run inference with example image
+- display inference results as a new, style-transfered image
 
 ### Model and Image
 
